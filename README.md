@@ -2,7 +2,7 @@ A server-side Edge Function for Supabase that uses Hugging Face Inference API to
 
 It runs every time there's a new image in the storage bucket.
 
-Docs:
+## Docs
 
 https://huggingface.co/tasks/image-to-text
 
